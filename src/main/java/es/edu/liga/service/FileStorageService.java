@@ -1,6 +1,6 @@
 package es.edu.liga.service;
 
-import es.edu.liga.domain.gmodel.Equipo;
+import es.edu.liga.domain.model.Equipo;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.UrlResource;
 import org.springframework.stereotype.Service;
